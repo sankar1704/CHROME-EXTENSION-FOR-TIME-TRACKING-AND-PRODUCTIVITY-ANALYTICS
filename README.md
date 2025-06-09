@@ -17,4 +17,11 @@ As a task of CODTECH internship, I built a chrome extension . I aim to develop a
 This project exemplifies the seamless integration of multiple technologies to deliver a feature-rich and visually appealing Chrome extension. The activity-tracking capability combined with an intuitive pie chart visualization offers users a clear and immediate understanding of their usage patterns. The responsive and interactive user interface, designed with HTML, CSS, and JavaScript, ensures a smooth and engaging experience for users. The popup component of the extension is particularly notable for its simplicity and elegance, enabling users to access their data quickly without unnecessary complexity. The use of Chart.js to render pie charts provides an interactive and visually stunning representation of the data, making it both informative and aesthetically pleasing. The dashboard further enhances the project by offering a comprehensive view of the tracked activity, complementing the extension with a more detailed and insightful analysis . The integration of real-time data tracking, efficient storage, and visually engaging analytics elevates user productivity. Its lightweight design, secure API handling, and polished UI create an exceptional and user-friendly experience
 In conclusion, this Chrome extension stands out as a sophisticated example of modern web development, seamlessly combining multiple technologies. The use of Chrome Extension APIs powers its core functionality, while Node.js provides a robust backend for handling data processing and API calls. MongoDB plays a crucial role in securely storing and managing user data, ensuring scalability for future growth. Chart.js, HTML, CSS, and JavaScript together create a polished user experience and deliver a visually impactful solution. I have named it as "Time Tracking & Productivity Analysis".
 
-# OUTPUT OF THE TASK
+# OUTPUT OF THE TAS
+
+
+![Image](https://github.com/user-attachments/assets/9823f8a9-2501-46f6-bfe7-451d036ab6c3)
+
+
+
+K
